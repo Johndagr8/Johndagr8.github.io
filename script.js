@@ -1,4 +1,4 @@
-var letterContent = `Maggie, my dear, a name so sweet,
+var letterContent = `Magie, my dear, a name so sweet,
 Our adventure waits, an exciting feat.
 At six o'clock, I'll see your smile,
 A moment that'll make my heart beguile. 
